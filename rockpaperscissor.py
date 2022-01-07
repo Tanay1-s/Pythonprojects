@@ -68,7 +68,7 @@ while True:
     p1.loss+=1
 
   else:
-    print("Flase response")
+    print("False response.")
 
     
   
